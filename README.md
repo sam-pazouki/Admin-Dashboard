@@ -1,3 +1,12 @@
+
+![admin 1](https://github.com/sam-pazouki/Admin-Dashboard/assets/68926038/ed7cd868-7ad4-454a-9135-6ec6b411a588)
+Dark mode
+![admin 2](https://github.com/sam-pazouki/Admin-Dashboard/assets/68926038/6b6fbbba-62b5-4217-8b8a-d53f11b7070c)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
